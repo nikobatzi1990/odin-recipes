@@ -1,0 +1,13 @@
+body {
+    background-color:rgb(255, 255, 255)
+}
+
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.recipe {
+    font-size: 30px;
+    background-color: rgb(203, 203, 203);
+    font-family: Arial, Helvetica, sans-serif;
+}
